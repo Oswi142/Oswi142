@@ -3,7 +3,7 @@
 <p align="center" width="150px"> Soy estudiante de la carrera de Sistemas.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BOswi142l04%7D/count.svg" alt="visitor badge"/></p>
 
 ### 🛠 &nbsp;Tech Stack
 
