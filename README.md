@@ -29,5 +29,5 @@
 
 <p align="center">
 <a href="mailto:edwin.roman@ucb.edu.bo"><img src="https://img.shields.io/badge/-edwin.roman@ucb.edu.bo-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/oswi_r.me"><img src="https://img.shields.io/badge/-oswi_r-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/oswi_r"><img src="https://img.shields.io/badge/-oswi_r-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
